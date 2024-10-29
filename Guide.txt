@@ -1,0 +1,33 @@
+QuanClick
+
+Setup the Pi Pico
+Plug in Pi Pico
+	Windows will instal a com port
+	Unplug the Pi Pico
+Put the Pico into UF2 download mode
+	Hold down the BOOT/SEL button on the Pi Pico
+	Plug in Pi Pico
+	Windows will open an explorer window
+Adding CircuitPython to the Pi Pico
+Download the CircuitPython 9.1.4 .UF2 file
+	https://circuitpython.org/board/raspberry_pi_pico/
+	drag and drop the download into the Pi Pico root folder
+
+Donload and install Thonny with Python
+Thonny website
+https://thonny.org/
+Github download for portable version
+https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-py38-4.1.6-windows-portable.zip
+Extract all to C:\Users\{user_name}\Thonny
+Run Thonny.exe
+	Language: English (UK)
+	Initial Settings: Raspberry Pi (simple)
+
+Click on the lower Thonny menu
+	Configure interpreter...
+
+Select an interpreter
+	CircuitPython (generic)
+	Select OK
+Thonny should detect com port and show in the lower menu
+
