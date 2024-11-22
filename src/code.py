@@ -11,7 +11,7 @@ keyboard = Keyboard(usb_hid.devices)
 mouse = Mouse(usb_hid.devices)
 
 # Define the GPIO pins for the buttons
-button_pins = [board.GP0, board.GP1, board.GP2, board.GP3, board.GP4, board.GP5]
+button_pins = [board.GP0, board.GP2, board.GP4, board.GP1, board.GP3, board.GP5]
 
 # Create a list of DigitalInOut objects for each button
 buttons = [digitalio.DigitalInOut(pin) for pin in button_pins]
