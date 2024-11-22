@@ -1,7 +1,5 @@
 ![Heading Title Image, QuanClick logo on the left, Quantum Technology Club logo on the right](./img/quan-click.svg)
 
-# QuanClick
-
 ## Table of Contents
 1. [Getting Started](#getting-started)
    - [Quickstart](#quickstart-i-dont-want-to-read-tutorials)
