@@ -11,6 +11,8 @@
 2. [Customization](#customization)
 
 ## What
+![A photograph of a completed QuanClick unit](./img/constructed.png)
+
 QuanClick is a six-button macro keyboard (and HID) device, designed to be low cost, easy to assemble, and easy to customize.
 
 ## Why
