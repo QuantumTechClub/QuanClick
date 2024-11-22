@@ -1,6 +1,6 @@
 # QuanClick: Basic Implementation
 
-The accompanying `code.py` implements a custom input device controller using CircuitPython on a microcontroller board. It allows for the creation of a programmable keyboard and mouse interface with customizable button actions.
+The accompanying `quanclick.py` implements a custom input device controller using CircuitPython on a microcontroller board. It allows for the creation of a programmable keyboard and mouse interface with customizable button actions.
 
 ## Table of Contents
 
@@ -81,7 +81,7 @@ The `button_actions` dictionary defines the actions for each button:
 ## Usage
 
 1. Connect the buttons to the specified GPIO pins on your microcontroller.
-2. Upload the code to your microcontroller.
+2. Upload the code to your microcontroller (renaming to `code.py` if you wish it to auto-run)
 3. Connect the microcontroller to a computer via USB.
 4. Press the buttons to trigger the corresponding actions.
 
