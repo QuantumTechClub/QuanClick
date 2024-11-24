@@ -1,0 +1,16 @@
+QuanClick Parts list and example suppliers
+
+6 button module
+https://www.aliexpress.com/item/1005005656486739.html
+
+Dupont 10cm female to female jumper wire set
+https://www.aliexpress.com/item/1005007072081464.html
+
+M3x8mm Philips self tapping machine screws
+https://www.aliexpress.com/item/1005004166837447.html
+
+2.54mm header straight and right angle
+https://www.aliexpress.com/item/32796117265.html
+
+Raspberry Pi Pico 2
+https://shop.pimoroni.com/products/raspberry-pi-pico-2?variant=42096955424851
